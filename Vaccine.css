@@ -1,0 +1,167 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#head{
+    background: url("https://cdn.pixabay.com/photo/2020/04/07/05/37/mask-5012093__340.jpg")no-repeat center center/cover;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.nav-item{
+    font-size: 1.2rem;
+}
+.home{
+    margin: 0%;
+    padding: 4% 30%;
+    /* width: 100%; */
+}
+#vaccine{
+    margin: 5% 10%;
+    padding: 8% 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#services{
+    margin: 6% 10%;
+    padding: 8% 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#heading2{
+    text-align: center;
+    /* font-size: 2.4rem; */
+    color: rgb(253, 252, 252);
+    font-family: 'Bree Serif', serif;
+    padding: 6% 4%;
+}
+#btn{
+    margin: 1% auto;
+    padding: 1% 20%;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+
+#covid{
+    margin: 0% 0%;
+    padding: 6% 5%;
+    background: url("https://cdn.pixabay.com/photo/2018/04/29/11/03/syringe-3359627__340.jpg")no-repeat center center/cover;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center;
+    justify-content: center; */
+}
+.cova{
+    margin: 2% 6%;
+    padding: 3% 3%;
+    /* margin-right: 4%; */
+    width: 50%;
+    display: flex;
+    border-radius: 8%;
+    border: 2px solid red;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     font-size: 1rem;
+}
+#heading1{
+    color: rgb(83, 82, 82);
+    /* font-size: 4rem; */
+    margin: 1% 5%;
+    margin-bottom: 3%;
+    padding: 5% 2%;
+    font-family: 'Bree Serif', serif;
+}
+p{
+    margin-top: 2%;
+    /* font-size: 1.2rem; */
+    font-family: 'Bree Serif', serif;
+    color: rgb(253, 252, 252);
+}
+.vacci{
+    margin: 2% 4%;
+    /* margin-left: 5%; */
+    padding: 2% 2%;
+    margin-bottom: 26%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+   text-align: center;
+    border-radius: 4%;
+    border: 2px solid red;
+
+}
+#heading3{
+    color: rgb(83, 82, 82);
+    /* font-size: 2rem; */
+    margin: 1% 5%;
+    padding: 3% 2%;
+    font-family: 'Bree Serif', serif;
+}
+
+
+#about{
+    margin: 0% 0%;
+    padding: 3% 14%;
+    /* width: 100%; */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#box{
+    /* margin: 0% 0%;
+    padding: 2% 10%;
+    background-color:rgb(128, 194, 211) ; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#heading12{
+    color: rgb(235, 31, 31);
+    font-size: 3rem;
+    margin: 1% 5%;
+    margin-bottom: 1%;
+    padding: 2% 2%;
+    font-family: 'Bree Serif', serif;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+.para1{
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 1.2rem;
+    font-family: 'Bree Serif', serif;
+    color: rgb(253, 252, 252);
+}
+
+
+
+
+
+/* @media
+ only screen and 
+(max-width : 300px) {
+ .fas{ font-size:3x;}
+}      
+@media 
+ only screen and 
+(min-width : 300px) and (max-width: 500px) {
+ .fas{ font-size:3x; }
+}            */
